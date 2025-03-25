@@ -1,0 +1,9 @@
+0. (Tylko raz na komputer) Instalujemy moduł pipenv (pip install pipenv)
+
+1. Tworzymy wirtualne środowisko (pipenv shell)
+2. Wybieramy środowisko z listy
+    a. musimy być w pliku pythona
+    b. klikamy na wersje w prawym dolnym rogu Visual Studio Code
+    c. wybieramy środowisko stworzne w punktcie 1 (nazywa się tak, jak folder, z zielonej ścieżki - patrz to co wypisało polecenie pipenv shell)
+3. Instalujemy bibliotkeki na środowisku wirtualnym (pipenv install [nazwa tego co checmy zainstalować])
+    
